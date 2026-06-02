@@ -1,4 +1,4 @@
-# Arch Installer V2
+# Arch Installer
 
 A minimal, opinionated Arch Linux installer focused on simplicity, reproducibility, and modern defaults.
 
